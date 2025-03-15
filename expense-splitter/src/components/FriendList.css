@@ -1,0 +1,10 @@
+.friend-list {
+  padding: 20px;
+}
+.friend-list ul {
+  list-style: none;
+  padding: 0;
+}
+.friend-list button {
+  margin-left: 10px;
+}

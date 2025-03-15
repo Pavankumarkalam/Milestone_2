@@ -1,0 +1,10 @@
+.expense-list {
+  padding: 20px;
+}
+.expense-list ul {
+  list-style: none;
+  padding: 0;
+}
+.expense-list button {
+  margin-left: 10px;
+}

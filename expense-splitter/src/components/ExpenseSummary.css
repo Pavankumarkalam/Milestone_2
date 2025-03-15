@@ -1,0 +1,14 @@
+.expense-summary {
+  padding: 20px;
+}
+.expense-summary ul {
+  list-style: none;
+  padding: 0;
+}
+.expense-summary div {
+  margin: 10px 0;
+}
+.expense-summary input {
+  margin-left: 10px;
+  width: 60px;
+}
